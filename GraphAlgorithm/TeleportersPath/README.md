@@ -1,0 +1,36 @@
+# Teleporters Path
+
+A game has n levels and m teleportes between them. You win the game if you move from level 1 to level n using every teleporter exactly once.
+Can you win the game, and what is a possible way to do it?  
+
+## Input  
+The first input line has two integers n and m: the number of levels and teleporters. The levels are numbered 1,2,&hellip;,n.
+Then, there are m lines describing the teleporters. Each line has two integers a and b: there is a teleporter from level a to level b.
+You can assume that each pair (a,b) in the input is distinct.
+
+## Output
+Print m+1 integers: the sequence in which you visit the levels during the game. You can print any valid solution.
+If there are no solutions, print "IMPOSSIBLE".
+
+## Constraints
+
+- 2 &le; n &le; 10<sup>5</sup>
+- 1 &le; a, b &le; n
+- 1 &le; m &le; 2 &times; 10<sup>5</sup>
+
+
+## Example
+<font color="blue">**Input:**</font>
+```c++
+5 6
+1 2
+1 3
+2 4
+2 5
+3 1
+4 2
+```
+<font color="blue">**Output:**</font>
+```c++
+1 3 1 2 4 2 5
+``` 
