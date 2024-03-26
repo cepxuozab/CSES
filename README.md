@@ -11,6 +11,8 @@
 - [Graph Algorithms](#Graph-Algorithms)
 - [String Algorithms](#String-Algorithms)
 - [Geometry](#Geometry)
+- [Advanced Techniques](#Advanced-Techniques)
+- [Additional Problems](#Additional-Problems)
 
 
 ## <input type="checkbox" checked> Introductory Problems
@@ -236,4 +238,16 @@
 - [✅] [2192 - Point in Polygon](Geometry/Point-in-Polygon/main.cpp)
 - [✅] [2193 - Polygon Lattice Points](Geometry/PolygonLatticePoints/main.cpp)
 - [✅] [2194 - Minimum Euclidean Distance](Geometry/MinimumEuclideanDistance/main.cpp)
-- [✅] [2195 - Convex Hull](Geometry/ConvexHull/main.cpp)
+- [✅] [2195 - Convex Hull](Geometry/ConvexHull/main.cpp)  
+
+
+## <input type="checkbox"  > Advanced Techniques
+
+
+## <input type="checkbox"  > Additional Problems
+- [✅] [1087 - Shortest Subsequence](AdditionalProblems/ShortestSubsequence/main.cpp)
+- [✅] [1146 - Counting Bits](AdditionalProblems/CountingBits/main.cpp)
+- [✅] [1670 - Swap Game](AdditionalProblems/SwapGame/main.cpp)
+- [ ] [1134 - Prüfer Code](AdditionalProblems)
+- [ ] [1756 - Acyclic Grpah Edges](AdditionalProblems)
+- [ ] [2177 - Strongly Connected Edges](AdditionalProblems)
