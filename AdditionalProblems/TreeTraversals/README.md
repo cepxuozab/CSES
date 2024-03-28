@@ -1,0 +1,36 @@
+# Tree Traversals 
+
+There are three common ways to traverse the nodes of a binary tree:
+
+* Preorder: First process the root, then the left subtree, and finally the right subtree.
+* Inorder: First process the left subtree, then the root, and finally the right subtree.
+* Postorder: First process the left subtree, then the right subtree, and finally the root.
+
+There is a binary tree of n nodes with distinct labels. You are given the preorder and inorder traversals of the tree, and your task is to determine its postorder traversal.
+
+## Input
+
+The first input line has an integer n: the number of nodes. The nodes are numbered 1,2,&hellip;,n.
+After this, there are two lines describing the preorder and inorder traversals of the tree. Both lines consist of n integers.
+You can assume that the input corresponds to a binary tree.
+
+## Output
+
+Print the postorder traversal of the tree.
+
+## Constraints
+
+* 1 &le; n &le; 10<sup>5</sup>
+
+
+## Example1
+<font color="blue">**Input:**</font>
+```c++
+5
+5 3 2 1 4
+3 5 1 2 4
+```
+<font color="blue">**Output:**</font>
+```c++
+3 1 4 2 5
+``` 

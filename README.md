@@ -258,3 +258,9 @@
 - [✅] [2229 - Permutation Inversions](AdditionalProblems/PermutationInversions/main.cpp)
 - [✅] [1655 - Maximum Xor Subarray](AdditionalProblems/MaximumXorSubarray/main.cpp)
 - [✅] [1664 - Movie Festival Queries](AdditionalProblems/MovieFestivalQueries/main.cpp)
+- [✅] [1697 - Chess Tournament](AdditionalProblems/ChessTournament/main.cpp)
+- [✅] [1702 - Tree Traversals](AdditionalProblems/TreeTraversals/main.cpp)
+- [✅] [1704 - Network Renovation](AdditionalProblems/NetworkRenovation/main.cpp)
+- [✅] [1707 - Graph Girth](AdditionalProblems/GraphGirth/main.cpp)
+- [✅] [1740 -Intersection Points](AdditionalProblems/IntersectionPoints/main.cpp)
+
