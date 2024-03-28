@@ -263,4 +263,6 @@
 - [✅] [1704 - Network Renovation](AdditionalProblems/NetworkRenovation/main.cpp)
 - [✅] [1707 - Graph Girth](AdditionalProblems/GraphGirth/main.cpp)
 - [✅] [1740 -Intersection Points](AdditionalProblems/IntersectionPoints/main.cpp)
-
+- [✅] [2214 -Inverse Inversions](AdditionalProblems/InverseInversions/main.cpp)
+- [✅] [2215 -Monotone Subsequences](AdditionalProblems/MonotoneSubsequences/main.cpp)
+- [✅] [1743 -String Reorder](AdditionalProblems/StringReorder/main.cpp)
