@@ -266,3 +266,6 @@
 - [✅] [2214 -Inverse Inversions](AdditionalProblems/InverseInversions/main.cpp)
 - [✅] [2215 -Monotone Subsequences](AdditionalProblems/MonotoneSubsequences/main.cpp)
 - [✅] [1743 -String Reorder](AdditionalProblems/StringReorder/main.cpp)
+- [✅] [2425 -Stack Weights](AdditionalProblems/StackWeights/main.cpp)
+- [✅] [1747 -Pyramid Array](AdditionalProblems/PyramidArray/main.cpp)
+- [✅] [1748 -Increasing Subsequence II](AdditionalProblems/IncreasingSubsequenceII/main.cpp)
