@@ -294,3 +294,6 @@
 - [✅] [1757 - Course Schedule II](AdditionalProblems/CourseScheduleII/main.cpp)
 - [✅] [2174 - Removing Digits II](AdditionalProblems/RemovingDigitsII/main.cpp)
 - [✅] [2180 - Coin Arrangement](AdditionalProblems/CoinArrangement/main.cpp)
+- [✅] [2176 - Counting Bishops](AdditionalProblems/CountingBishops/main.cpp)
+- [✅] [2432 - Grid Puzzle I](AdditionalProblems/GridPuzzleI/main.cpp)
+- [✅] [2431 - Grid Puzzle II](AdditionalProblems/GridPuzzleII/main.cpp)
