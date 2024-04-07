@@ -1,7 +1,7 @@
 # CSES-Solutions
 > Accepted solutions of [CSES problemset](https://cses.fi/problemset)
 
-## Table of Contents  
+## Table of Contents
 - [Introductory Problems](#Introductory-Problems)
 - [Sorting and Searching](#Sorting-and-Searching)
 - [Dynamic Programming](#Dynamic-Programming)
@@ -36,7 +36,7 @@
 - [✅] [2431 - Digit Queries](IntroductoryProblems/DigitQueries/main.cpp)
 - [✅] [1625 - Grid Paths](IntroductoryProblems/GridPaths/main.cpp)
 
-## <input type="checkbox" checked>Sorting and Searching  
+## <input type="checkbox" checked>Sorting and Searching
 - [✅] [1621 - Distinct Numbers](SortingAndSearching/DistinctNumbers/main.cpp)
 - [✅] [1084 - Apartments](SortingAndSearching/Apartments/main.cpp)
 - [✅] [1090 - Ferris Wheel](SortingAndSearching/FerrisWheel/main.cpp)
@@ -71,7 +71,7 @@
 - [✅] [1076 - Sliding Window Median](SortingAndSearching/SlidingWindowMedian/main.cpp)
 - [✅] [1077 - Sliding Window Cost](SortingAndSearching/SlidingWindowCost/main.cpp)
 - [✅] [1632 - Movie Festival II](SortingAndSearching/MovieFestivalII/main.cpp)
-- [✅] [1644 - Maximum Subarray Sum II](SortingAndSearching/MaximumSubarraySumII/main.cpp) 
+- [✅] [1644 - Maximum Subarray Sum II](SortingAndSearching/MaximumSubarraySumII/main.cpp)
 
 
 ## <input type="checkbox" checked>Dynamic Programming
@@ -98,28 +98,28 @@
 
 
 ## <input type="checkbox" checked>  Range Queries
-  - [✅] [1646 - Static Range Sum Queries](RangeQueries/StaticRangeSumQueries/main.cpp)
-  - [✅] [1647 - Static Range Minimum Queries](RangeQueries/StaticRangeMinimumQueries/main.cpp)
-  - [✅] [1648 - Dynamic Range Sum Queries](RangeQueries/DynamicRangeSumQueries/main.cpp)
-  - [✅] [1649 - Dynamic Range Minimum Queries](RangeQueries/DynamicRangeMinimumQueries/main.cpp)
-  - [✅] [1650 - Range Xor Queries](RangeQueries/RangeXorQueries/main.cpp)
-  - [✅] [1651 - Range Update Queries](RangeQueries/RangeUpdateQueries/main.cpp)
-  - [✅] [1652 - Forest Queries](RangeQueries/ForestQueries/main.cpp)
-  - [✅] [1143 - Hotel Queries](RangeQueries/HotelQueries/main.cpp)
-  - [✅] [1749 - List Removals](RangeQueries/ListRemovals/main.cpp)
-  - [✅] [1144 - Salary Queries](RangeQueries/SalaryQueries/main.cpp)
-  - [✅] [2166 - Prefix Sum Queries](RangeQueries/PrefixSumQueries/main.cpp)
-  - [✅] [2206 - Pizzeria Queries][Pizzeria]
-  - [✅] [1190 - Subarray Sum Queries](RangeQueries/SubarraySumQueries/main.cpp)
-  - [✅] [1734 - Distinct Values Queries](RangeQueries/DistinctValuesQueries/main.cpp)
-  - [✅] [2416 - Increasing Array Queries](RangeQueries/IncreasingArrayQueries/main.cpp)
-  - [✅] [1739 - Forest Queries II](RangeQueries/ForestQueries2/main.cpp)
-  - [✅] [1735 - Range Updates and Sums](RangeQueries/RangeUpdatesandSums/main.cpp)
-  - [✅] [1736 - Polynomial Queries](RangeQueries/PolynomialQueries/main.cpp)
-  - [✅] [1737 - Range Queries and Copies](RangeQueries/RangeQueriesandCopies/main.cpp)
+- [✅] [1646 - Static Range Sum Queries](RangeQueries/StaticRangeSumQueries/main.cpp)
+- [✅] [1647 - Static Range Minimum Queries](RangeQueries/StaticRangeMinimumQueries/main.cpp)
+- [✅] [1648 - Dynamic Range Sum Queries](RangeQueries/DynamicRangeSumQueries/main.cpp)
+- [✅] [1649 - Dynamic Range Minimum Queries](RangeQueries/DynamicRangeMinimumQueries/main.cpp)
+- [✅] [1650 - Range Xor Queries](RangeQueries/RangeXorQueries/main.cpp)
+- [✅] [1651 - Range Update Queries](RangeQueries/RangeUpdateQueries/main.cpp)
+- [✅] [1652 - Forest Queries](RangeQueries/ForestQueries/main.cpp)
+- [✅] [1143 - Hotel Queries](RangeQueries/HotelQueries/main.cpp)
+- [✅] [1749 - List Removals](RangeQueries/ListRemovals/main.cpp)
+- [✅] [1144 - Salary Queries](RangeQueries/SalaryQueries/main.cpp)
+- [✅] [2166 - Prefix Sum Queries](RangeQueries/PrefixSumQueries/main.cpp)
+- [✅] [2206 - Pizzeria Queries][Pizzeria]
+- [✅] [1190 - Subarray Sum Queries](RangeQueries/SubarraySumQueries/main.cpp)
+- [✅] [1734 - Distinct Values Queries](RangeQueries/DistinctValuesQueries/main.cpp)
+- [✅] [2416 - Increasing Array Queries](RangeQueries/IncreasingArrayQueries/main.cpp)
+- [✅] [1739 - Forest Queries II](RangeQueries/ForestQueries2/main.cpp)
+- [✅] [1735 - Range Updates and Sums](RangeQueries/RangeUpdatesandSums/main.cpp)
+- [✅] [1736 - Polynomial Queries](RangeQueries/PolynomialQueries/main.cpp)
+- [✅] [1737 - Range Queries and Copies](RangeQueries/RangeQueriesandCopies/main.cpp)
 
 
-[Pizzeria]: RangeQueries/PizzeriaQueries/main.cpp  
+[Pizzeria]: RangeQueries/PizzeriaQueries/main.cpp
 
 
 ## <input type="checkbox" checked> Tree Algorithms
@@ -140,7 +140,7 @@
 - [✅] [2080 - Fixed-Length Paths I](TreeAlgorithms/Fixed-Length-PathsI/main.cpp)
 - [✅] [2081 - Fixed-Length Paths II](TreeAlgorithms/Fixed-Length-PathsII/main.cpp)
 
-## <input type="checkbox" checked> Mathematics  
+## <input type="checkbox" checked> Mathematics
 - [✅] [2164 - Josephus Queries](Mathematics/JosephusQueries/main.cpp)
 - [✅] [1095 - Exponentiation](Mathematics/Exponentiation/main.cpp)
 - [✅] [1712 - Exponentiation II](Mathematics/ExponentiationII/main.cpp)
@@ -209,10 +209,10 @@
 - [✅] [1694 - Download Speed](GraphAlgorithm/DownloadSpeed/main.cpp)
 - [✅] [1695 - Police Chase](GraphAlgorithm/PoliceChase/main.cpp)
 - [✅] [1696 - School Dance](GraphAlgorithm/SchoolDance/main.cpp)
-- [✅] [1711 - Distinct Routes](GraphAlgorithm/DistinctRoutes/main.cpp)  
+- [✅] [1711 - Distinct Routes](GraphAlgorithm/DistinctRoutes/main.cpp)
 
 
-## <input type="checkbox"  checked>String Algorithms  
+## <input type="checkbox"  checked>String Algorithms
 - [✅] [1731 - Word Combinations](StringAlgorithms/WordCombinations/main.cpp)
 - [✅] [1753 - String Matching](StringAlgorithms/StringMatching/main.cpp)
 - [✅] [1732 - Finding Borders](StringAlgorithms/FindingBorders/main.cpp)
@@ -231,20 +231,44 @@
 - [✅] [2109 - Substring Order II](StringAlgorithms/SubstringOrderII/main.cpp)
 - [✅] [2110 - Substring Distribution](StringAlgorithms/SubstringDistribution/main.cpp)
 
-## <input type="checkbox"  checked> Geometry  
+## <input type="checkbox"  checked> Geometry
 - [✅] [2189 - Point Location Test](Geometry/PointLocationTest/main.cpp)
 - [✅] [2190 - Line Segment Intersection](Geometry/LineSegmentIntersection/main.cpp)
 - [✅] [2191 - Polygon Area](Geometry/PolygonArea/main.cpp)
 - [✅] [2192 - Point in Polygon](Geometry/Point-in-Polygon/main.cpp)
 - [✅] [2193 - Polygon Lattice Points](Geometry/PolygonLatticePoints/main.cpp)
 - [✅] [2194 - Minimum Euclidean Distance](Geometry/MinimumEuclideanDistance/main.cpp)
-- [✅] [2195 - Convex Hull](Geometry/ConvexHull/main.cpp)  
+- [✅] [2195 - Convex Hull](Geometry/ConvexHull/main.cpp)
 
 
 ## <input type="checkbox"  > Advanced Techniques
+- [✅] [1628 - Meet in the Middle](AdvancedTechniques/MeetInTheMiddle/main.cpp)
+- [✅] [2136 - Hamming Distance](AdvancedTechniques/HammingDistance/main.cpp)
+- [✅] [2137 - Beautiful Subgrids](AdvancedTechniques/BeautifulSubgrids/main.cpp)
+- [✅] [2138 - Reachable Nodes](AdvancedTechniques/ReachableNodes/main.cpp)
+- [✅] [2143 - Reachability Queries](AdvancedTechniques/ReachabilityQueries/main.cpp)
+- [✅] [2072 - Cut and Paste](AdvancedTechniques/CutandPaste/main.cpp)
+- [✅] [2073 - Substring Reversals](AdvancedTechniques/SubstringReversals/main.cpp)
+- [✅] [2074 - Reversals and Sums](AdvancedTechniques/ReversalsAndSums/main.cpp)
+- [✅] [2076 - Necessary Roads](AdvancedTechniques)
+- [✅] [2077 - Necessary Cities](AdvancedTechniques)
+- [✅] [2078 - Eulerian Subgraphs](AdvancedTechniques)
+- [✅] [2084 - Monster Game I](AdvancedTechniques)
+- [✅] [2085 - Monster Game II](AdvancedTechniques)
+- [✅] [2086 - Subarray Squares](AdvancedTechniques)
+- [✅] [2087 - Houses and Schools](AdvancedTechniques)
+- [✅] [2088 - Knuth Division](AdvancedTechniques)
+- [✅] [2111 - Apples and Bananas](AdvancedTechniques)
+- [✅] [2112 - One Bit Positions](AdvancedTechniques)
+- [✅] [2113 - Signal Processing](AdvancedTechniques)
+- [✅] [2101 - New Roads Queries](AdvancedTechniques)
+- [✅] [2133 - Dynamic Connectivity](AdvancedTechniques)
+- [✅] [2121 - Parcel Delivery](AdvancedTechniques)
+- [✅] [2129 - Task Assignment](AdvancedTechniques)
+- [✅] [2130 - Distinct Routes II](AdvancedTechniques)
 
 
-## <input type="checkbox"  > Additional Problems
+## <input type="checkbox" checked> Additional Problems
 - [✅] [1087 - Shortest Subsequence](AdditionalProblems/ShortestSubsequence/main.cpp)
 - [✅] [1146 - Counting Bits](AdditionalProblems/CountingBits/main.cpp)
 - [✅] [1670 - Swap Game](AdditionalProblems/SwapGame/main.cpp)
@@ -274,7 +298,7 @@
 - [✅] [2419 - Xor Pyramid](AdditionalProblems/XorPyramid/main.cpp)
 - [✅] [1086 - Writing Numbers](AdditionalProblems/WritingNumbers/main.cpp)
 - [✅] [1113 - String Transform](AdditionalProblems/StringTransform/main.cpp)
-- [❌] [2427 - Letter Pair Move Game](AdditionalProblems)
+- [✅] [2427 - Letter Pair Move Game](AdditionalProblems/LetterPairMoveGame/main.cpp)
 - [✅] [1147 - Maximum Building I](AdditionalProblems/MaximumBuildingI/main.cpp)
 - [✅] [1162 - Sorting Methods](AdditionalProblems/SortingMethods/main.cpp)
 - [✅] [1191 - Cyclic Array](AdditionalProblems/CyclicArray/main.cpp)
@@ -311,3 +335,14 @@
 - [✅] [2423 - Filling Trominos](AdditionalProblems/FillingTrominos/main.cpp)
 - [✅] [1161 - Stick Divisions](AdditionalProblems/StickDivisions/main.cpp)
 - [✅] [1665 - Coding Company](AdditionalProblems/CodingCompany/main)
+- [✅] [1699 - Flight Route Requests](AdditionalProblems/FlightRouteRequests/main.cpp)
+- [✅] [2402 - Two Stacks Sorting](AdditionalProblems/TwoStacksSorting/main.cpp)
+- [✅] [1701 - Tree Isomorphism II](AdditionalProblems/TreeIsomorphismII/main.cpp)
+- [✅] [1705 - Forbidden Cities](AdditionalProblems/ForbiddenCities/main.cpp)
+- [✅] [1741 - Area of Rectangles](AdditionalProblems/AreaOfRectangles/main.cpp)
+- [✅] [2429 - Grid Completion](AdditionalProblems/GridCompletion/main.cpp)
+- [✅] [1752 - Creating Offices](AdditionalProblems/CreatingOffices/main.cpp)
+- [✅] [1075 - Permutations II](AdditionalProblems/PermutationsII/main.cpp)
+- [✅] [2415 - Functional Graph Distribution](AdditionalProblems/FunctionalGraphDistribution/main.cpp)
+- [✅] [1685 - New Flight Routes](AdditionalProblems/NewFlightRoutes/main.cpp)
+- [✅] [2418 - Grid Path Construction](AdditionalProblems/GridPathConstruction/main.cpp)
