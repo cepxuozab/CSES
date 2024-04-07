@@ -212,7 +212,7 @@
 - [✅] [1711 - Distinct Routes](GraphAlgorithm/DistinctRoutes/main.cpp)
 
 
-## <input type="checkbox"  checked>String Algorithms
+## <input type="checkbox"  checked> String Algorithms
 - [✅] [1731 - Word Combinations](StringAlgorithms/WordCombinations/main.cpp)
 - [✅] [1753 - String Matching](StringAlgorithms/StringMatching/main.cpp)
 - [✅] [1732 - Finding Borders](StringAlgorithms/FindingBorders/main.cpp)
@@ -250,9 +250,9 @@
 - [✅] [2072 - Cut and Paste](AdvancedTechniques/CutandPaste/main.cpp)
 - [✅] [2073 - Substring Reversals](AdvancedTechniques/SubstringReversals/main.cpp)
 - [✅] [2074 - Reversals and Sums](AdvancedTechniques/ReversalsAndSums/main.cpp)
-- [✅] [2076 - Necessary Roads](AdvancedTechniques)
-- [✅] [2077 - Necessary Cities](AdvancedTechniques)
-- [✅] [2078 - Eulerian Subgraphs](AdvancedTechniques)
+- [✅] [2076 - Necessary Roads](AdvancedTechniques/NecessaryRoads/main.cpp)
+- [✅] [2077 - Necessary Cities](AdvancedTechniques/NecessaryCities/main.cpp)
+- [✅] [2078 - Eulerian Subgraphs](AdvancedTechniques/EulerianSubgraphs/main.cpp)
 - [✅] [2084 - Monster Game I](AdvancedTechniques)
 - [✅] [2085 - Monster Game II](AdvancedTechniques)
 - [✅] [2086 - Subarray Squares](AdvancedTechniques)
