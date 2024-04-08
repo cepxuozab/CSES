@@ -241,7 +241,7 @@
 - [✅] [2195 - Convex Hull](Geometry/ConvexHull/main.cpp)
 
 
-## <input type="checkbox"  > Advanced Techniques
+## <input type="checkbox" checked> Advanced Techniques
 - [✅] [1628 - Meet in the Middle](AdvancedTechniques/MeetInTheMiddle/main.cpp)
 - [✅] [2136 - Hamming Distance](AdvancedTechniques/HammingDistance/main.cpp)
 - [✅] [2137 - Beautiful Subgrids](AdvancedTechniques/BeautifulSubgrids/main.cpp)
@@ -258,14 +258,14 @@
 - [✅] [2086 - Subarray Squares](AdvancedTechniques/SubarraySquares/main.cpp)
 - [✅] [2087 - Houses and Schools](AdvancedTechniques/HousesAndSchools/main.cpp)
 - [✅] [2088 - Knuth Division](AdvancedTechniques/KnuthDivision/main.cpp)
-- [✅] [2111 - Apples and Bananas](AdvancedTechniques)
-- [✅] [2112 - One Bit Positions](AdvancedTechniques)
-- [✅] [2113 - Signal Processing](AdvancedTechniques)
-- [✅] [2101 - New Roads Queries](AdvancedTechniques)
-- [✅] [2133 - Dynamic Connectivity](AdvancedTechniques)
-- [✅] [2121 - Parcel Delivery](AdvancedTechniques)
-- [✅] [2129 - Task Assignment](AdvancedTechniques)
-- [✅] [2130 - Distinct Routes II](AdvancedTechniques)
+- [✅] [2111 - Apples and Bananas](AdvancedTechniques/ApplesAndBananas/main.cpp)
+- [✅] [2112 - One Bit Positions](AdvancedTechniques/OneBitPositions/main.cpp)
+- [✅] [2113 - Signal Processing](AdvancedTechniques/SignalProcessing/main.cpp)
+- [✅] [2101 - New Roads Queries](AdvancedTechniques/NewRoadsQueries/main.cpp)
+- [✅] [2133 - Dynamic Connectivity](AdvancedTechniques/DynamicConnectivity/main.cpp)
+- [✅] [2121 - Parcel Delivery](AdvancedTechniques/ParcelDelivery/main.cpp)
+- [✅] [2129 - Task Assignment](AdvancedTechniques/TaskAssignment/main.cpp)
+- [✅] [2130 - Distinct Routes II](AdvancedTechniques/DistinctRoutesII/main.cpp)
 
 
 ## <input type="checkbox" checked> Additional Problems
