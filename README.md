@@ -442,34 +442,29 @@
 - [✅] [2430 - Binary Subsequences](AdditionalProblemsII/BinarySubsequences/main.cpp)
 - [✅] [1706 - School Excursion](AdditionalProblemsII/SchoolExcursion/main.cpp)
 - [✅] [1709 - Coin Grid](AdditionalProblemsII/CoinGrid/main.cpp)
-Grid Coloring II
+- [✅] [3312 - Grid Coloring II](AdditionalProblemsII/Grid%20Coloring%20II/main.cpp)
 - [✅] [2426 - Programmers and Artists](AdditionalProblemsII/ProgrammersAndArtists/main.cpp)
 - [✅] [2174 - Removing Digits II](AdditionalProblemsII/RemovingDigitsII/main.cpp)
 - [✅] [2180 - Coin Arrangement](AdditionalProblemsII/CoinArrangement/main.cpp)
-Replace with Difference
+- [✅] [3159 - Replace with Difference](AdditionalProblemsII/Replace%20with%20Difference/main.cpp)
 - [✅] [2432 - Grid Puzzle I](AdditionalProblemsII/GridPuzzleI/main.cpp)
 - [✅] [2431 - Grid Puzzle II](AdditionalProblemsII/GridPuzzleII/main.cpp)
 - [✅] [2115 - Bit Substrings](AdditionalProblemsII/BitSubstrings/main.cpp)
 - [✅] [2075 - Reversal Sorting](AdditionalProblemsII/ReversalSorting/main.cpp)
 - [✅] [1159 - Book Shop II](AdditionalProblemsII/BookShopII/main.cpp)
-GCD Subsets
-Minimum Cost Pairs
-Same Sum Subsets
-Mex Grid Queries
+- [✅] [3161 - GCD Subsets](AdditionalProblemsII/GCD%20Subsets/main.cppp)
+- [✅] [3402 - Minimum Cost Pairs](AdditionalProblemsII/Minimum%20Cost%20Pairs/main.cpp)
+- [✅] [3425 - Same Sum Subsets](AdditionalProblemsII/Same%20Sum%20Subsets/main.cpp)
+- [✅] [3425 - Same Sum Subsets](AdditionalProblemsII/Same%20Sum%20Subsets/main.cpp)
+- [✅] [1157 - Mex Grid Queries](AdditionalProblemsII/Mex%20Grid%20Queries/main.cpp)
 - [✅] [1161 - Stick Divisions](AdditionalProblemsII/StickDivisions/main.cpp)
-Stick Difference
+- [✅] [3401 - Stick Difference](AdditionalProblemsII/Stick%20Difference/main.cpp)
 - [✅] [1148 - Maximum Building II](AdditionalProblemsII/MaximumBuildingII/main.cpp)
 - [✅] [1665 - Coding Company](AdditionalProblemsII/CodingCompany/main)
 - [✅] [2402 - Two Stacks Sorting](AdditionalProblemsII/TwoStacksSorting/main.cpp)
 
 
-not in 
 
-
-
-
-
-- [✅] [1157 - Number Grid](AdditionalProblemsII/NumberGrid/main.cpp)
 
 
 
