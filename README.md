@@ -431,11 +431,11 @@
 
 
 ## <input type="checkbox" > Additional Problems II (30 tasks)
-Bouncing Ball Steps
-Bouncing Ball Cycle
-Knight Moves Queries
-K Subset Sums I
-K Subset Sums II
+- [✅] [3215 - Bouncing Ball Steps](AdditionalProblemsII/Bouncing%20Ball%20Steps/main.cpp)
+- [✅] [3216 - Bouncing Ball Cycle](AdditionalProblemsII/Bouncing%20Ball%20Cycle/main.cpp)
+- [✅] [3218 - Knight Moves Queries](AdditionalProblemsII/Knight%20Moves%20Queries/main.cpp)
+- [✅] [3108 - K Subset Sums I](AdditionalProblemsII//K%20Subset%20Sums%20I/main.cpp)
+- [✅] [3108 - K Subset Sums II](AdditionalProblemsII/K%20Subset%20Sums%20II/main.cpp)
 - [✅] [1232 - Increasing Array II](AdditionalProblemsII/IncreasingArrayII/main.cpp)
 - [✅] [1189 - Food Division](AdditionalProblemsII/FoodDivision/main.cpp)
 - [✅] [1698 - Swap Round Sorting](AdditionalProblemsII/SwapRoundSorting/main.cpp)
